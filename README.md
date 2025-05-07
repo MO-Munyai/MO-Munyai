@@ -7,10 +7,14 @@
  
 🧰 Tech Stack
 - Languages: JavaScript | Python | Java | SQL | PLSQL | PostgreSQL | HTML | CSS
-- Frontend: React.js | Vite | TailwindCSS | Bootstrap 
-Backend: Node.js | FastAPI | Django | JEE
-Database: PostgreSQL | MySQL | SQL | PLSQL
-Tools: Git | Netbeans | Glassfish | VS Code
+  
+- Frontend: React.js | Vite | TailwindCSS | Bootstrap
+
+- Backend: Node.js | FastAPI | Django | JEE
+
+- Database: PostgreSQL | MySQL | SQL | PLSQL
+
+- Tools: Git | Netbeans | Glassfish | VS Code
 
  
 ## 🔭 Current Focus
