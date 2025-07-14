@@ -2,7 +2,7 @@
 - I lead with purpose and build tools that solve real-world problems.
 - I'm into web technologies, building and testing new tech tools, AI and more.
 
-#Join me on my journey in tech as I learn and share cool stuff that I make as I grow.
+# Join me on my journey in tech as I learn and share cool stuff that I make as I grow.
 
 - 🔁 **Full Stack Engineering** — React, Django, PostgreSQL
  
