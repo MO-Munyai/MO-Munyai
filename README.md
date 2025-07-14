@@ -1,22 +1,19 @@
-- 👋 Hi, I’m MO, Software Engineer
-- I am a builder, systems thinker, and creative technologist. I lead with purpose, code with precision, and build tools that solve real-world problems.
-- Computer Science Senior Student at Tshwane University of Technology
+# 👋 Hi, I’m MO (Mukona O Munyai), Junior Software/DevOps Engineer
+- I lead with purpose and build tools that solve real-world problems.
+- I'm into web technologies, building and testing new tech tools, AI and more.
+
+#Join me on my journey in tech as I learn and share cool stuff that I make as I grow.
 
 - 🔁 **Full Stack Engineering** — React, Django, PostgreSQL
-- 🧩 **Tech Team Leadership** — Leading dev squads & building community
  
 🧰 Tech Stack
 - Languages: JavaScript | Python | Java | SQL | HTML | CSS
   
 - Frontend: React.js | Vite | TailwindCSS | Bootstrap
 
-- Backend: Node.js | FastAPI | Django | Flask | JEE
+- Backend: FastAPI | Django | Flask | JEE
 
-- Database: PostgreSQL | MySQL | SQL | PLSQL
+- Database: PostgreSQL | SQL | PLSQL
 
-- Tools: Git | Netbeans | Glassfish | VS Code
+- Tools: Git | Netbeans | Glassfish | VS Code | Postman
 
- 
-## 🔭 Current Focus
-- 🤝 Empowering devs — through a tech network I founded focused on growth and real execution
-- Founder of Tech Group "The Tech Trove"
