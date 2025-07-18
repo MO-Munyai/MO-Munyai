@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MO (Mukona O Munyai), Junior Software/DevOps Engineer
+# 👋 Hi, I’m MO (Mukona O. Munyai), Junior Software/DevOps Engineer
 - I lead with purpose and build tools that solve real-world problems.
 - I'm into web technologies, building and testing new tech tools, AI and more.
 
@@ -15,5 +15,5 @@
 
 - Database: PostgreSQL | SQL | PLSQL
 
-- Tools: Git | Netbeans | Glassfish | VS Code | Postman
+- Tools: Git | Github | Gitlab | Netbeans | Glassfish | VS Code | Postman | Docker
 
