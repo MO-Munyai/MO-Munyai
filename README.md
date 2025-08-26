@@ -17,7 +17,13 @@
 
 - Tools: Git | Github | Gitlab | Netbeans | Glassfish | VS Code | Postman | Docker | Asana
 
+- Cloud Computing: AWS | GCP
+  
 - Software Project Management: Experienced in using Asana
     
 - System Analysis: Skilled in creating system analysis diagrams
 
+# Completed Courses
+- AWS Cloud Practioner Essentials
+
+- CompTia Network+ 
