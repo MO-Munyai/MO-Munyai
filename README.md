@@ -1,21 +1,20 @@
 # 👋 Hi, I’m MO (Mukona O. Munyai), Junior Software/DevOps Engineer
-- I lead with purpose and build tools that solve real-world problems.
-- I'm into web technologies, building and testing new tech tools, AI and more.
+- I'm into web technologies, cloud computing and services, networking, building and testing new tech tools, AI and more.
+- Developing my own programming language: Mapple (MPPL/ Multi-Purpose Programming Language)
 
+ 
 # Join me on my journey in tech as I learn and share cool stuff that I make as I grow.
 
-- 🔁 **Full Stack Engineering** — React, Django, PostgreSQL
- 
 # 🧰 Tech Skills
-- Languages: JavaScript | Python | Java | SQL | HTML | CSS
+- Languages: Python | Java | SQL | HTML | CSS
   
-- Frontend: React.js | Vite | TailwindCSS | Bootstrap
+- Frontend: HTML | CSS
 
-- Backend: FastAPI | Django | Flask | JEE (Java Enteprise Edition)
+- Backend: Django | Flask | JEE (Java Enteprise Edition)
 
-- Database: PostgreSQL | SQL | PLSQL | JPA (Java Persistence API) | JPQL (Java Persistence Query Language)
+- Database: PostgreSQL | MySQL | PLSQL | JPA (Java Persistence API) | JPQL (Java Persistence Query Language)
 
-- Tools: Git | Github | Gitlab | Netbeans | Glassfish | VS Code | Postman | Docker | Asana
+- Tools: Git | Github | Gitlab | VS Code | Postman | Docker | Asana | AWS
 
 - Cloud Computing: AWS | GCP
   
@@ -26,4 +25,10 @@
 # Completed Courses
 - AWS Cloud Practioner Essentials
 
+- AWS Designing Event-Driven Architectures
+  
+- Google Machine Learning Crash Course
+
+- Google Clustering Course
+  
 - CompTia Network+ 
