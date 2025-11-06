@@ -6,7 +6,7 @@
 # Join me on my journey in tech as I learn and share cool stuff that I make as I grow.
 
 # 🧰 Tech Skills
-- Languages: Python | Java | SQL | HTML | CSS
+- Languages: Python | Java | SQL | HTML | CSS | MPPL
   
 - Frontend: HTML | CSS
 
