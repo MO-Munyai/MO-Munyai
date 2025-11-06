@@ -12,7 +12,7 @@
 
 - Backend: Django | Flask | JEE (Java Enteprise Edition)
 
-- Database: PostgreSQL | MySQL | PLSQL | JPA (Java Persistence API) | JPQL (Java Persistence Query Language)
+- Database: PostgreSQL | MySQL | PL/SQL | JPA (Java Persistence API) | JPQL (Java Persistence Query Language)
 
 - Tools: Git | Github | Gitlab | VS Code | Postman | Docker | Asana | AWS
 
@@ -23,7 +23,7 @@
 - System Analysis: Skilled in creating system analysis diagrams
 
 # Completed Courses
-- AWS Cloud Practioner Essentials
+- AWS Cloud Practitioner Essentials
 
 - AWS Designing Event-Driven Architectures
   
@@ -31,4 +31,4 @@
 
 - Google Clustering Course
   
-- CompTia Network+ 
+- CompTIA Network+ 
