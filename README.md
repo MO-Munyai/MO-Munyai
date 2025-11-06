@@ -1,4 +1,4 @@
-# 👋 Hi, I’m MO (Mukona O. Munyai), Junior Software/DevOps Engineer
+# I am MO (Mukona O. Munyai), Junior Software Engineer
 - I'm into web technologies, cloud computing and services, networking, building and testing new tech tools, AI and more.
 - Developing my own programming language: Mapple (MPPL/ Multi-Purpose Programming Language)
 
